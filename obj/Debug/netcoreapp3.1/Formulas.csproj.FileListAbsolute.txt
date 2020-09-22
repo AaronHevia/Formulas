@@ -1,0 +1,13 @@
+E:\MSSA\Formulas\obj\Debug\netcoreapp3.1\Formulas.csprojAssemblyReference.cache
+E:\MSSA\Formulas\obj\Debug\netcoreapp3.1\Formulas.AssemblyInfoInputs.cache
+E:\MSSA\Formulas\obj\Debug\netcoreapp3.1\Formulas.AssemblyInfo.cs
+E:\MSSA\Formulas\obj\Debug\netcoreapp3.1\Formulas.csproj.CoreCompileInputs.cache
+E:\MSSA\Formulas\bin\Debug\netcoreapp3.1\Formulas.exe
+E:\MSSA\Formulas\bin\Debug\netcoreapp3.1\Formulas.deps.json
+E:\MSSA\Formulas\bin\Debug\netcoreapp3.1\Formulas.runtimeconfig.json
+E:\MSSA\Formulas\bin\Debug\netcoreapp3.1\Formulas.runtimeconfig.dev.json
+E:\MSSA\Formulas\bin\Debug\netcoreapp3.1\Formulas.dll
+E:\MSSA\Formulas\bin\Debug\netcoreapp3.1\Formulas.pdb
+E:\MSSA\Formulas\obj\Debug\netcoreapp3.1\Formulas.dll
+E:\MSSA\Formulas\obj\Debug\netcoreapp3.1\Formulas.pdb
+E:\MSSA\Formulas\obj\Debug\netcoreapp3.1\Formulas.genruntimeconfig.cache
